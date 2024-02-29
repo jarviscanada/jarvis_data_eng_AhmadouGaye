@@ -1,0 +1,109 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "2000$ recruitment scolarship",
+        "2000$ scolarship of excellence during 2020 academic year",
+        "1000$ scolarship of excellence during 2021 academic year",
+        "President of the Computer Sciences department Student council",
+        "Technical assistant for New Brunswick high schools programming contest in 2022",
+        "GPA: 3.5/4.3"
+      ],
+      "degree": "Bachelor of Applied Sciences",
+      "department": "Computer Sciences",
+      "duration": "2018-2023",
+      "school_name": "Universite de Moncton"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_AhmadouGaye",
+  "highlighted_projects": [
+    {
+      "description": "Implemented using a Bash script, the Raspberry Pi connectivity monitor was developed to detect Internet connection issues in real time, ensuring the functionality of the company's client devices at all times. The app periodically checks the device's Internet connection, sends signals when the connection is no longer working, and attempts to troubleshoot it using methods such as deactivating and then reactivating Wi-Fi, switching from Wi-Fi to wired or Bluetooth connections.",
+      "git_url": null,
+      "name": "Raspberry pi Connectivity monitor"
+    },
+    {
+      "description": "Developed using Python, OpenCV, and deep learning, it was an academic project at university that involved detecting the presence of a hand through a camera and displaying the number of fingers shown in real time.",
+      "git_url": null,
+      "name": "Computer Vision project"
+    },
+    {
+      "description": "Designed using SQL, with the mySQL RDBMS and Python, this project consisted in creating, normalizing, inserting datas and managing the database. The datas are inserted with a Python scripts which collects datas from a Excel file and inserts them in the appropriate tables automatically.",
+      "git_url": null,
+      "name": "Database conception for a university restaurant Web/Mobile app "
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "Developed using Bash and PSQL languages, encapsulated in Docker containers for shipping and deployment, and all of that in a Unix environment, the Linux cluster monitor collects data about hardware specifications and places it in a database table. It also collects host usage information every minute and puts it in another table in the same database.",
+      "git_url": "https://github.com/jarviscanada/jarvis_data_eng_AhmadouGaye",
+      "name": "Cluster Monitor"
+    }
+  ],
+  "name": "Ahmadou Gaye",
+  "others": [
+    {
+      "bullets": [
+        "SQL cerificate from Test dome"
+      ],
+      "title": "Certificates"
+    },
+    {
+      "bullets": [
+        "Soccer player",
+        "Competitive gaming",
+        "Gym"
+      ],
+      "title": "Activities/Hobbies"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "Working in Software Engineering field using the most recents technologies and methodologies in the field",
+      "duration": "2024-present",
+      "title": "Data engineer"
+    },
+    {
+      "company": "Universite de Moncton",
+      "description": "Worked in a four months internship on web site back-end project.",
+      "duration": "2023",
+      "title": "Intern back-end developer"
+    },
+    {
+      "company": "Elumicate Inc.",
+      "description": "Worked in a four months internship on Linux and Artificial intelligence projects.",
+      "duration": "2022",
+      "title": "Intern Software developer"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "Microsoft office",
+      "Communication",
+      "Time management",
+      "Leadership",
+      "Analytic spirit",
+      "Algebra",
+      "Maths"
+    ],
+    "familiar": [
+      "Artificial intelligence tools",
+      "ML / DL / Computer vision",
+      "Visual Basic",
+      "Parallel programming",
+      "Logic programming",
+      "Functional programming"
+    ],
+    "proficient": [
+      "Java",
+      "C++",
+      "Python",
+      "Linux/Bash",
+      "RDBMS/SQL",
+      "Agile/Scrum",
+      "Git"
+    ]
+  },
+  "summary": "In addition to strong critical and analytical skills, I am a talented bilingual data engineer with a great understanding of data structures and algorithms, complemented by extensive knowledge of databases and object-oriented programming. I can communicate with computers using a wide variety of programming languages. During my studies, I completed two relevant internships lasting four months each in the software development field, as well as numerous interesting projects at university. Since graduating, I have gained experience in customer service related to fraud in banking. The software development field has always been my primary area of interest and where I aspire to build my career, driven by my passion and the exciting challenges and amazing tools it offers."
+}
