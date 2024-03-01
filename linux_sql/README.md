@@ -44,11 +44,11 @@ Once it's confirmed to be correct, we run the 'host_usage' script once and verif
 After completing this, we set up 'host_usage' to run with crontab and verify after some minutes if all the data collected during this timeframe is successfully inserted.
 If the desired result is achieved, our project works perfectly.
 
-#Deployment
+# Deployment
 
 The Cluster Monitor is shipped and run in Docker containers, and the code is hosted in the jarviscanada/jarvis_data_eng_AhmadouGaye GitHub repository. It is deployed using crontab technology, allowing it to update our database every minute.
 
-#Improvements
+# Improvements
 
 - handle hardware updates
 - option to send signal when there is no longer disk available 
