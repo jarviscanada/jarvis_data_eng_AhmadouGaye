@@ -21,13 +21,13 @@ The DDL SQL script creates tables if they don't exist with the appropriate numbe
 
 ## Architecture
 
-![Architecture](./assets/Architecture.drawio.png)
+![Architecture](./Architecture.drawio.png)
 
 ## Scripts
 
 - ``` psql_docker.sh: create, start, or stop Docker containers``` 
 - ``` host_info.sh: collect hardware secifications and puts it in our host_info table```
-- ``` host_usage.sh: collect resource usage data and insert it to the database host_usage table ````
+- ``` host_usage.sh: collect resource usage data and insert it to the database host_usage table ```
 - ``` crontab: run host_usage script every minute to collect memory informations in real time``` 
 - ``` ddl.sql: Create tables for the database ``` 
 
