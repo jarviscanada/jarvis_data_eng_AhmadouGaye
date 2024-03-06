@@ -1,12 +1,12 @@
 # Ahmadou Gaye . Jarvis Consulting
 
-In addition to strong critical and analytical skills, I am a talented bilingual data engineer with a great understanding of data structures and algorithms, complemented by extensive knowledge of databases and object-oriented programming. I can communicate with computers using a wide variety of programming languages. During my studies, I completed two relevant internships lasting four months each in the software development field, as well as numerous interesting projects at university. Since graduating, I have gained experience in customer service related to fraud in banking. The software development field has always been my primary area of interest and where I aspire to build my career, driven by my passion and the exciting challenges and amazing tools it offers.
+Passionate about technology and mathematics since a young age, I began learning to code as a teenager. Years later, I finally obtained my Bachelor's degree in Applied Computer Sciences to turn my passion into a profession and pursue a career as a bilingual Data Engineer. I have mastered many languages such as SQL, Java, Python, and C++, as well as various advanced algorithms. During my studies, I completed two relevant internships lasting four months each in the software development field, as well as numerous interesting projects at university. Since graduating, I have gained experience in customer service related to fraud in banking. The software development field has always been my primary area of interest and where I aspire to build my career, driven by my passion and the exciting challenges and amazing tools it offers.
 
 ## Skills
 
 **Proficient:** Java, C++, Python, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
 
-**Competent:** Microsoft office, Communication, Time management, Leadership, Analytic spirit, Algebra, Maths
+**Competent:** Microsoft office, HTML/CSS, Javascript, Automatata Theory, Assembly language, Algebra, Maths
 
 **Familiar:** Artificial intelligence tools, ML / DL / Computer vision, Visual Basic, Parallel programming, Logic programming, Functional programming
 
@@ -23,16 +23,16 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_AhmadouGay
 
 **Computer Vision project**: Developed using Python, OpenCV, and deep learning, it was an academic project at university that involved detecting the presence of a hand through a camera and displaying the number of fingers shown in real time.
 
-**Database conception for a university restaurant Web/Mobile app **: Designed using SQL, with the mySQL RDBMS and Python, this project consisted in creating, normalizing, inserting datas and managing the database. The datas are inserted with a Python scripts which collects datas from a Excel file and inserts them in the appropriate tables automatically.
+**Database conception for a university restaurant Web/Mobile app **: Designed using SQL, with the MySQL RDBMS and Python, this project involved creating, normalizing, inserting data, and managing the database. The data is inserted using Python scripts that collect data from an Excel file and automatically insert it into the appropriate tables.
 
 
 ## Professional Experiences
 
 **Data engineer, Jarvis (2024-present)**: Working in Software Engineering field using the most recents technologies and methodologies in the field
 
-**Intern back-end developer, Universite de Moncton (2023)**: Worked in a four months internship on web site back-end project.
+**Intern back-end developer, Universite de Moncton (2023)**: Worked in a four-months internship on my university restaurant website back-end project with a group of four Computer Sciences students and many nutitional sciences students
 
-**Intern Software developer, Elumicate Inc. (2022)**: Worked in a four months internship on Linux and Artificial intelligence projects.
+**Intern Software developer, Elumicate Inc. (2022)**: Worked in a four-month internship on Linux device connectivity monitoring and Artificial Intelligence projects to count objects using YOLO and save data to files.
 
 
 ## Education
@@ -47,6 +47,6 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_AhmadouGay
 
 ## Miscellaneous
 - SQL cerificate from Test dome
-- Soccer player
-- Competitive gaming
-- Gym
+- I like playing soccer in a striker position, scoring goals, and assisting my teammates. I used to play every weekend with some friends.
+- I assist in online and in-person EA FC gaming competitions and participate in one of the biggest EA FC online tournaments.
+- I used to go to the gym 3 or 4 times a week.
