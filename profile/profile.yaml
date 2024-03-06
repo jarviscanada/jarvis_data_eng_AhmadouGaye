@@ -5,7 +5,7 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_AhmadouGay
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: In addition to strong critical and analytical skills, I am a talented bilingual data engineer with a great understanding of data structures and algorithms, complemented by extensive knowledge of databases and object-oriented programming. I can communicate with computers using a wide variety of programming languages. During my studies, I completed two relevant internships lasting four months each in the software development field, as well as numerous interesting projects at university. Since graduating, I have gained experience in customer service related to fraud in banking. The software development field has always been my primary area of interest and where I aspire to build my career, driven by my passion and the exciting challenges and amazing tools it offers. 
+summary: Passionate about technology and mathematics since a young age, I began learning to code as a teenager. Years later, I finally obtained my Bachelor's degree in Applied Computer Sciences to turn my passion into a profession and pursue a career as a bilingual Data Engineer. I have mastered many languages such as SQL, Java, Python, and C++, as well as various advanced algorithms. During my studies, I completed two relevant internships lasting four months each in the software development field, as well as numerous interesting projects at university. Since graduating, I have gained experience in customer service related to fraud in banking. The software development field has always been my primary area of interest and where I aspire to build my career, driven by my passion and the exciting challenges and amazing tools it offers. 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
@@ -21,10 +21,10 @@ skills:
   # At least 5 skills
   competent:
     - Microsoft office
-    - Communication
-    - Time management
-    - Leadership
-    - Analytic spirit
+    - HTML/CSS
+    - Javascript
+    - Automatata Theory
+    - Assembly language
     - Algebra
     - Maths
   # At least 5 skills
@@ -59,7 +59,7 @@ highlighted_projects:
 
   - name: "Database conception for a university restaurant Web/Mobile app "
     git_url:
-    description: Designed using SQL, with the mySQL RDBMS and Python, this project consisted in creating, normalizing, inserting datas and managing the database. The datas are inserted with a Python scripts which collects datas from a Excel file and inserts them in the appropriate tables automatically. 
+    description: Designed using SQL, with the MySQL RDBMS and Python, this project involved creating, normalizing, inserting data, and managing the database. The data is inserted using Python scripts that collect data from an Excel file and automatically insert it into the appropriate tables.
 
 #List of professional experience
 #The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
@@ -74,11 +74,11 @@ professional_experience:
   - title: "Intern back-end developer"
     company: "Universite de Moncton"
     duration: "2023"
-    description: "Worked in a four months internship on web site back-end project."
+    description: "Worked in a four-months internship on my university restaurant website back-end project with a group of four Computer Sciences students and many nutitional sciences students"
   - title: "Intern Software developer"
     company: "Elumicate Inc."
     duration: "2022"
-    description: "Worked in a four months internship on Linux and Artificial intelligence projects."
+    description: "Worked in a four-month internship on Linux device connectivity monitoring and Artificial Intelligence projects to count objects using YOLO and save data to files."
 
 #List of edcuation
 education: 
@@ -104,6 +104,6 @@ others:
       - "SQL cerificate from Test dome"
   - title: "Activities/Hobbies"
     bullets:
-      - "Soccer player"
-      - "Competitive gaming"
-      - "Gym"
+      - "I like playing soccer in a striker position, scoring goals, and assisting my teammates. I used to play every weekend with some friends."
+      - "I assist in online and in-person EA FC gaming competitions and participate in one of the biggest EA FC online tournaments."
+      - "I used to go to the gym 3 or 4 times a week."
