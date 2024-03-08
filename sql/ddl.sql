@@ -1,28 +1,36 @@
-CREATE TABLE IF NOT EXISTS host_info 
-        (
-                id               SERIAL NOT NULL,
-                hostname         VARCHAR NOT NULL, 
-                cpu_number       INT2 NOT NULL,
-                cpu_architecture VARCHAR NOT NULL,
-                cpu_model        VARCHAR NOT NULL,
-                cpu_mhz          FLOAT8 NOT NULL,
-                l2_cache         INT4 NOT NULL,
-                "timestamp"      TIMESTAMP NULL,
-                total_mem        INT4 NULL,
-                CONSTRAINT host_info_pk PRIMARY KEY (id),
-                CONSTRAINT host_info_un UNIQUE (hostname)
-        );
+CREATE TABLE cd.members (
+  memid integer NOT NULL, 
+  surname character varying(200) NOT NULL, 
+  firstname character varying(200) NOT NULL, 
+  address character varying(300) NOT NULL, 
+  zipcode integer NOT NULL, 
+  telephone character varying(20) NOT NULL, 
+  recommendedby integer, 
+  joindate timestamp NOT NULL, 
+  CONSTRAINT members_pk PRIMARY KEY (memid), 
+  CONSTRAINT fk_members_recommendedby FOREIGN KEY (recommendedby) REFERENCES cd.members(memid) ON DELETE 
+  SET 
+    NULL
+);
 
-CREATE TABLE IF NOT EXISTS host_usage
-	(
+CREATE TABLE cd.facilities (
+  facid integer NOT NULL, 
+  name character varying(100) NOT NULL, 
+  membercost numeric NOT NULL, 
+  guestcost numeric NOT NULL, 
+  initialoutlay numeric NOT NULL, 
+  monthlymaintenance numeric NOT NULL, 
+  CONSTRAINT facilities_pk PRIMARY KEY (facid)
+);
 
-		"timestamp"    TIMESTAMP NOT NULL, 
-     		host_id        SERIAL NOT NULL, 
-     		memory_free    INT4 NOT NULL, 
-     		cpu_idle       INT2 NOT NULL, 
-     		cpu_kernel     INT2 NOT NULL, 
-     		disk_io        INT4 NOT NULL, 
-     		disk_available INT4 NOT NULL, 
-     		CONSTRAINT host_usage_host_info_fk FOREIGN KEY (host_id) REFERENCES 
-     		host_info(id)  
-	);
+CREATE TABLE cd.bookings (
+  bookid integer NOT NULL, 
+  facid integer NOT NULL, 
+  memid integer NOT NULL, 
+  starttime timestamp NOT NULL, 
+  slots integer NOT NULL, 
+  CONSTRAINT bookings_pk PRIMARY KEY (bookid), 
+  CONSTRAINT fk_bookings_facid FOREIGN KEY (facid) REFERENCES cd.facilities(facid), 
+  CONSTRAINT fk_bookings_memid FOREIGN KEY (memid) REFERENCES cd.members(memid)
+);
+
