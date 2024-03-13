@@ -1,5 +1,6 @@
 # Introduction
 
+This project serves both as a learning experience and a practical application. Through its execution, I have gained significant insights into data modeling, data definition, logical structuring for SQL queries, and data optimization techniques. In the forthcoming sections, I will delve into our database schema configuration, the SQL queries I formulated, and their respective applications.
 
 # SQL Quries
 
