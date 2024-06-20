@@ -13,7 +13,7 @@ public interface JavaGrep {
      * Top level search workflow
      * @throws IOException
      */
-    void process () throws IOExceptioln;
+    void process () throws IOException;
 
     /**
      * Traverse a given directory and return a list of all files

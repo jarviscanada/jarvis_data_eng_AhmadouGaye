@@ -125,7 +125,6 @@ public class JavaGrepImp implements JavaGrep {
     @Override
     public List<String> readLines(File inputFile) throws IllegalArgumentException,IOException {
 
-        List<String> allLines= new ArrayList<String>();
 
         return Files.readAllLines(inputFile.toPath());
     }
