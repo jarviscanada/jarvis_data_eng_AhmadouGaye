@@ -1,10 +1,8 @@
 # Jarvis Data Engineering Training
 <<<<<<< HEAD
-1. [Linux Cluster Monitoring Agent (Linux and SQL)](./linux_sql) In-progress
-=======
-1. [Linux Cluster Monitoring Agent (Linux and SQL)](./linux_sql) Done
->>>>>>> 9168b4e4a67b1440042e8dd9d6a29c44d2340a11
-2. [Core Java Apps](./core_java) In-progress
+1. [Linux Cluster Monitoring Agent (Linux and SQL)](./linux_sql)Done
+1. [RDBMS and SQL] (.sql) Done
+2. [Core Java Apps](./core_java) Done
 3. [Python Data Analytics](./python_data_analytics) In-progress
 4. [Spring Boot Trading REST API](./springboot) In-progress
 5. [Javascript Front End](./javascript) In-progress
