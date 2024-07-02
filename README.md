@@ -1,12 +1,8 @@
 # Jarvis Data Engineering Training
 <<<<<<< HEAD
-1. [Linux Cluster Monitoring Agent (Linux and SQL)](./linux_sql)Done
-1. [RDBMS and SQL] (.sql) Done
-2. [Core Java Apps](./core_java) Done
-3. [Python Data Analytics](./python_data_analytics) In-progress
-4. [Spring Boot Trading REST API](./springboot) In-progress
-5. [Javascript Front End](./javascript) In-progress
-6. [Hadoop/Hive](./hadoop) In-progress
-7. [Spark/Scala](./spark) In-progress
-8. [Cloud/DevOps](./cloud_devops) In-progress
+1. [Linux Cluster Monitoring Agent (Linux and SQL)](./linux_sql) Done
+2. [RDBMS and SQL](.sql) Done
+3. [Core Java Apps](./core_java) Done
+4. [Mainframe systems Development (Cobol)](./cobol) Done
+
 
