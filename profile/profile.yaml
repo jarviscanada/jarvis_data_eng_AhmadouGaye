@@ -5,12 +5,16 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_AhmadouGay
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: In addition to strong critical and analytical skills, I am a talented bilingual data engineer with a great understanding of data structures and algorithms, complemented by extensive knowledge of databases and object-oriented programming. I can communicate with computers using a wide variety of programming languages. During my studies, I completed two relevant internships lasting four months each in the software development field, as well as numerous interesting projects at university. Since graduating, I have gained experience in customer service related to fraud in banking. The software development field has always been my primary area of interest and where I aspire to build my career, driven by my passion and the exciting challenges and amazing tools it offers. 
+summary: As bilingual junior Mainframe developer at Jarvis, I have a good background in COBOL, DB2, ISPF, JCL, CICS and IMS. After five years of studies and eight months of internship, I obtained a B. Sc. in Applied Computer Sciences with some strong coding skills and computers organization understanding. Witnessing the fast evolution of computers and softwares is the reason why I got interested in the world of data and has guided me through Jarvis where I got specialized through many IBM certified learnings and real-world project related to Mainframe engineering and many other fields. 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
   # At least 5 skills
   proficient:
+    - Cobol
+    - DB2
+    - ISPF and TSO
+    - JCL
     - Java
     - C++
     - Python
@@ -20,13 +24,11 @@ skills:
     - Git
   # At least 5 skills
   competent:
-    - Microsoft office
-    - Communication
-    - Time management
-    - Leadership
-    - Analytic spirit
-    - Algebra
-    - Maths
+    - IMS
+    - CICS
+    - Excel
+    - Math
+    - Web development
   # At least 5 skills
   familiar:
     - Artificial intelligence tools
@@ -38,12 +40,20 @@ skills:
 
 # List of Jarvis projects
 jarvis_projects:
-  - name: "Cluster Monitor"
+  - name: "Linux Cluster Monitor"
     git_url: "https://github.com/jarviscanada/jarvis_data_eng_AhmadouGaye"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: Developed using Bash and PSQL languages, encapsulated in Docker containers for shipping and deployment, and all of that in a Unix environment, the Linux cluster monitor collects data about hardware specifications and places it in a database table. It also collects host usage information every minute and puts it in another table in the same database.
+  - name: "RDBMS and SQL practical project"
+    git_url: "https://github.com/jarviscanada/jarvis_data_eng_AhmadouGaye"
 
+    description: This project serves both as a learning experience and a practical application. Through its execution, I have gained significant insights into data modeling, data definition, logical structuring for SQL queries, and data optimization techniques. In the forthcoming sections, I will delve into our database schema configuration, the SQL queries I formulated, and their respective applications.
+
+  - name: "Mainframe development - Student registration system"
+    git_url: "https://github.com/jarviscanada/jarvis_data_eng_AhmadouGaye"
+
+    description: Designed and developed in a mainframe environment using Cobol, DB2, JCL and CICS, this project allows to perform some operation on a student personnal informations database as inserting, deleting, updating, filtering and making reports.     
 # List of personal or academic projects
 # Feel free to add more projects
 highlighted_projects:
@@ -102,6 +112,8 @@ others:
     #list of items
     bullets:
       - "SQL cerificate from Test dome"
+      - "Cobol essential learning certificate from LinkedIn learning"
+      - "IBM practitionner badge"
   - title: "Activities/Hobbies"
     bullets:
       - "Soccer player"
