@@ -42,7 +42,7 @@
     {
       "description": "This project serves both as a learning experience and a practical application. Through its execution, I have gained significant insights into data modeling, data definition, logical structuring for SQL queries, and data optimization techniques. In the forthcoming sections, I will delve into our database schema configuration, the SQL queries I formulated, and their respective applications.",
       "git_url": "https://github.com/jarviscanada/jarvis_data_eng_AhmadouGaye",
-      "name": "RDBMS and SQL practical project"
+      "name": "RDBMS and SQL project"
     },
     {
       "description": "Designed and developed in a mainframe environment using Cobol, DB2, JCL and CICS, this project allows to perform some operation on a student personnal informations database as inserting, deleting, updating, filtering and making reports.",
@@ -64,7 +64,7 @@
       "bullets": [
         "Soccer player",
         "Competitive gaming",
-        "Gym"
+        "Going to gym 4 times a week"
       ],
       "title": "Activities/Hobbies"
     }
@@ -75,6 +75,12 @@
       "description": "Working in Software Engineering field using the most recents technologies and methodologies in the field",
       "duration": "2024-present",
       "title": "Data engineer"
+    },
+    {
+      "company": "TD Canada",
+      "description": "Worked as a front line agent for fraud victims. My mission was to mitigate risk for the bank and the clients following a process.",
+      "duration": "2023-2024",
+      "title": "Loss prevention advisor"
     },
     {
       "company": "Universite de Moncton",
@@ -111,6 +117,8 @@
       "ISPF and TSO",
       "JCL",
       "Java",
+      "Maven",
+      "Docker",
       "C++",
       "Python",
       "Linux/Bash",
@@ -119,5 +127,5 @@
       "Git"
     ]
   },
-  "summary": "As bilingual junior Mainframe developer at Jarvis, I have a good background in COBOL, DB2, ISPF, JCL, CICS and IMS. After five years of studies and eight months of internship, I obtained a B. Sc. in Applied Computer Sciences with some strong coding skills and computers organization understanding. Witnessing the fast evolution of computers and softwares is the reason why I got interested in the world of data and has guided me through Jarvis where I got specialized through many IBM certified learnings and real-world project related to Mainframe engineering and many other fields."
+  "summary": "As bilingual junior mainframe developer at Jarvis, I have a good background in COBOL, DB2, ISPF, JCL, CICS and IMS. After five years of studies and eight months of internship, I obtained a B. Sc. in Applied Computer Sciences with some strong coding skills and computers organization understanding. Witnessing the fast evolution of computers and softwares is the reason why I got interested in the world of data and has guided me through Jarvis where I got specialized through many IBM certified learnings and real-world project related to Mainframe engineering and many other fields."
 }

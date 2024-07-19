@@ -5,7 +5,7 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_AhmadouGay
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: As bilingual junior Mainframe developer at Jarvis, I have a good background in COBOL, DB2, ISPF, JCL, CICS and IMS. After five years of studies and eight months of internship, I obtained a B. Sc. in Applied Computer Sciences with some strong coding skills and computers organization understanding. Witnessing the fast evolution of computers and softwares is the reason why I got interested in the world of data and has guided me through Jarvis where I got specialized through many IBM certified learnings and real-world project related to Mainframe engineering and many other fields. 
+summary: As bilingual junior mainframe developer at Jarvis, I have a good background in COBOL, DB2, ISPF, JCL, CICS and IMS. After five years of studies and eight months of internship, I obtained a B. Sc. in Applied Computer Sciences with some strong coding skills and computers organization understanding. Witnessing the fast evolution of computers and softwares is the reason why I got interested in the world of data and has guided me through Jarvis where I got specialized through many IBM certified learnings and real-world project related to Mainframe engineering and many other fields. 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
@@ -16,6 +16,8 @@ skills:
     - ISPF and TSO
     - JCL
     - Java
+    - Maven
+    - Docker
     - C++
     - Python
     - Linux/Bash
@@ -45,7 +47,7 @@ jarvis_projects:
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: Developed using Bash and PSQL languages, encapsulated in Docker containers for shipping and deployment, and all of that in a Unix environment, the Linux cluster monitor collects data about hardware specifications and places it in a database table. It also collects host usage information every minute and puts it in another table in the same database.
-  - name: "RDBMS and SQL practical project"
+  - name: "RDBMS and SQL project"
     git_url: "https://github.com/jarviscanada/jarvis_data_eng_AhmadouGaye"
 
     description: This project serves both as a learning experience and a practical application. Through its execution, I have gained significant insights into data modeling, data definition, logical structuring for SQL queries, and data optimization techniques. In the forthcoming sections, I will delve into our database schema configuration, the SQL queries I formulated, and their respective applications.
@@ -79,8 +81,14 @@ professional_experience:
   - title: "Data engineer"
     company: "Jarvis"
     duration: "2024-present"
-    # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: "Working in Software Engineering field using the most recents technologies and methodologies in the field"
+
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+  - title: "Loss prevention advisor"
+    company: "TD Canada"
+    duration: "2023-2024"
+    description: "Worked as a front line agent for fraud victims. My mission was to mitigate risk for the bank and the clients following a process."
+   
   - title: "Intern back-end developer"
     company: "Universite de Moncton"
     duration: "2023"
@@ -118,4 +126,4 @@ others:
     bullets:
       - "Soccer player"
       - "Competitive gaming"
-      - "Gym"
+      - "Going to gym 4 times a week"
